@@ -1,0 +1,25 @@
+# Core LaTeX auxiliary files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.pdf
+
+# Bibliography files
+*.bbl
+*.blg
+
+# Table of contents/Lists
+*.toc
+*.lof
+*.lot
+
+# Specialized packages
+*.nav
+*.snm
+*.vrb
+*.out
+
+# VS Code specific
+.vscode/
